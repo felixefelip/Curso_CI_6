@@ -5,9 +5,9 @@ name: Go
 
 on:
   push:
-    branches: [ "Projeto_inicial" ]
+    branches: [ "curso-github-actions" ]
   pull_request:
-    branches: [ "Projeto_inicial" ]
+    branches: [ "curso-github-actions" ]
 
 jobs:
 
